@@ -1,2 +1,1 @@
-# goremotemilspouse-jobquiz
-Created with CodeSandbox
+# Go Remote Milspouse Quiz
